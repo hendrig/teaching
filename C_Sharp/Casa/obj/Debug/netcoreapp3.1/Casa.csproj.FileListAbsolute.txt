@@ -1,0 +1,11 @@
+C:\work\teaching\C_Sharp\Casa\bin\Debug\netcoreapp3.1\Casa.exe
+C:\work\teaching\C_Sharp\Casa\bin\Debug\netcoreapp3.1\Casa.deps.json
+C:\work\teaching\C_Sharp\Casa\bin\Debug\netcoreapp3.1\Casa.runtimeconfig.json
+C:\work\teaching\C_Sharp\Casa\bin\Debug\netcoreapp3.1\Casa.runtimeconfig.dev.json
+C:\work\teaching\C_Sharp\Casa\bin\Debug\netcoreapp3.1\Casa.dll
+C:\work\teaching\C_Sharp\Casa\bin\Debug\netcoreapp3.1\Casa.pdb
+C:\work\teaching\C_Sharp\Casa\obj\Debug\netcoreapp3.1\Casa.csprojAssemblyReference.cache
+C:\work\teaching\C_Sharp\Casa\obj\Debug\netcoreapp3.1\Casa.AssemblyInfoInputs.cache
+C:\work\teaching\C_Sharp\Casa\obj\Debug\netcoreapp3.1\Casa.AssemblyInfo.cs
+C:\work\teaching\C_Sharp\Casa\obj\Debug\netcoreapp3.1\Casa.dll
+C:\work\teaching\C_Sharp\Casa\obj\Debug\netcoreapp3.1\Casa.pdb
